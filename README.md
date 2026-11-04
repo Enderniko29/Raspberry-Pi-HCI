@@ -47,7 +47,7 @@ At $350, we placed the price on the more luxurious end of a smart home device, w
 We believe that a one time fee is better than a subscription model, and we knew the risk involved in hoping that users would choose the one time option,
 seeing as the Orange is not a product that would be as widely known in store shelves. 
 
-# AI reflection: 
+## AI reflection: 
 
 AI helped us form our mock ups and image examples when we lacked the artistic capabilities to sketch final designs. It was unhelpful when wanting to change
 smaller aspects of the design and our team consistently changed decisions that violated HCI principles, such as a cluttered home screen. Our team voted together
